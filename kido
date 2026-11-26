@@ -4,11 +4,11 @@
 #EXTM3U
 #EXTINF:-1 group-logo="https://i.pinimg.com/236x/f8/9a/f2/f89af263da81ca8ca43af3e3ec4f4bf4.jpg" group-title="🔴⚪NASIONAL"
 
-#EXTINF:-1 group-title="🔴⚪MEGAYA" tvg-id="tv1.my" tvg-logo="https://i.pinimg.com/236x/14/d9/24/14d924bd576994eead6db27f9f67b429.jpg",MEGA
-https://light-slit.akamaized.net/chzzk/kr/live_rewind/c/live_rewind_kr/g1mqveq7y3lbhacaadxapc7ctnvtsk/hdntl=exp=1795392794~acl=*%2Fkr%2F*~data=hdntl~hmac=fc3c63451c0278b9ca76c8dba1eefbd5f934fc5876f20092a4448cdcfb197fed/720p/vod_chunklist.m3u8
+#EXTINF:-1 group-title="🔴⚪MEGAYA" tvg-id="tv1.my" tvg-logo="https://i.pinimg.com/236x/14/d9/24/14d924bd576994eead6db27f9f67b429.jpg",MEGA FHD
+https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0002/typwdzejhnkfdexbqduy2jyuvaaziyt4opmk/hdntl=exp=1795747695~acl=*%2Ftypwdzejhnkfdexbqduy2jyuvaaziyt4opmk%2F*~data=hdntl~hmac=88f410e8012414bc7b15ce510a10a400038fddb4489b3c10beeedf607c73739a/1080p/a5tcjdae7u03q3mh0ci4llcaaziyt4ol72_hls_chunklist.m3u8
 
 #EXTINF:-1 group-title="🔴⚪MEGAYA HD" tvg-id="tv2.my" tvg-logo="https://i.pinimg.com/236x/25/40/23/254023c9908116a0260f391864a8c4af.jpg",MEGA HD
-https://light-slit.akamaized.net/chzzk/kr/live_rewind/c/live_rewind_kr/g1mqveq7y3lbhacaadxapc7ctnvtsk/hdntl=exp=1795392781~acl=*%2Fkr%2F*~data=hdntl~hmac=54bced5a629ef86ee3c353bc43f99536cafcc780fac79a0da348c70b19031605/720p/vod_chunklist.m3u8
+https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0002/typwdzejhnkfdexbqduy2jyuvaaziyt4opmk/hdntl=exp=1795747695~acl=*%2Ftypwdzejhnkfdexbqduy2jyuvaaziyt4opmk%2F*~data=hdntl~hmac=88f410e8012414bc7b15ce510a10a400038fddb4489b3c10beeedf607c73739a/720p/a5tcjdae7u03q3mh0ci4llcaaziyt4ol72_chunklist.m3u8
 
 #EXTINF:-1 tvg-id="TV3" group-title="🔴⚪MEGAYA FHD" tvg-logo="https://i.pinimg.com/236x/72/93/6b/72936b9b30464fe437ce3c46fbb10689.jpg",MEGA FHD
-https://light-slit.akamaized.net/chzzk/kr/live_rewind/c/live_rewind_kr/g1mqveq7y3lbhacaadxapc7ctnvtsk/hdntl=exp=1795392781~acl=*%2Fkr%2F*~data=hdntl~hmac=54bced5a629ef86ee3c353bc43f99536cafcc780fac79a0da348c70b19031605/480p/vod_chunklist.m3u8
+https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0002/typwdzejhnkfdexbqduy2jyuvaaziyt4opmk/hdntl=exp=1795747695~acl=*%2Ftypwdzejhnkfdexbqduy2jyuvaaziyt4opmk%2F*~data=hdntl~hmac=88f410e8012414bc7b15ce510a10a400038fddb4489b3c10beeedf607c73739a/480p/a5tcjdae7u03q3mh0ci4llcaaziyt4ol72_chunklist.m3u8
