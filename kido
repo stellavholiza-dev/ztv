@@ -10,5 +10,8 @@ https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0002/typwdzejhnkfd
 #EXTINF:-1 group-title="🔴⚪MEGAYA HD" tvg-id="tv2.my" tvg-logo="https://i.pinimg.com/236x/25/40/23/254023c9908116a0260f391864a8c4af.jpg",MEGA HD
 https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0002/typwdzejhnkfdexbqduy2jyuvaaziyt4opmk/hdntl=exp=1795747695~acl=*%2Ftypwdzejhnkfdexbqduy2jyuvaaziyt4opmk%2F*~data=hdntl~hmac=88f410e8012414bc7b15ce510a10a400038fddb4489b3c10beeedf607c73739a/720p/a5tcjdae7u03q3mh0ci4llcaaziyt4ol72_chunklist.m3u8
 
-#EXTINF:-1 tvg-id="TV3" group-title="🔴⚪MEGAYA FHD" tvg-logo="https://i.pinimg.com/236x/72/93/6b/72936b9b30464fe437ce3c46fbb10689.jpg",MEGA FHD
-https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0002/typwdzejhnkfdexbqduy2jyuvaaziyt4opmk/hdntl=exp=1795747695~acl=*%2Ftypwdzejhnkfdexbqduy2jyuvaaziyt4opmk%2F*~data=hdntl~hmac=88f410e8012414bc7b15ce510a10a400038fddb4489b3c10beeedf607c73739a/480p/a5tcjdae7u03q3mh0ci4llcaaziyt4ol72_chunklist.m3u8
+#EXTINF:-1 tvg-id="TV3" group-title="🔴⚪MEGAYA FHD" tvg-logo="https://i.pinimg.com/236x/72/93/6b/72936b9b30464fe437ce3c46fbb10689.jpg",MEGA HIGHLIGHT
+https://b01-kr-naver-vod.pstatic.net/glive/c/read/v2/VOD_ALPHA/glive_2026_11_26_108/hls/259b2359-e99c-11f1-a6b4-a0369ffab7f8.m3u8
+
+#EXTINF:-1 tvg-id="TV3" group-title="🔴⚪MEGAYA FHD" tvg-logo="https://i.pinimg.com/236x/72/93/6b/72936b9b30464fe437ce3c46fbb10689.jpg",MEGA HIGHTLIGHT HD
+https://b01-kr-naver-vod.pstatic.net/glive/c/read/v2/VOD_ALPHA/glive_2026_11_26_108/hls/10f051be-e9a0-11f1-8fa5-a0369ffbd840.m3u8
